@@ -1,4 +1,3 @@
 name: Satya Suveen Reddy Mekala
 markdown: kramdown
-
-plugins: - jekyll-sitemap
+plugins:jekyll-sitemap
